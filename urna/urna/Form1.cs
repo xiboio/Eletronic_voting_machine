@@ -162,7 +162,30 @@ namespace urna
             {
                 try
                 {
+                    cone.Open();
+
                     string cpfUsuario = UsuarioLogado.CPF;
+
+                    if (textBox1.Text == "00")
+                    {
+                        int nulo = 00;
+
+                        DialogResult resultad = MessageBox.Show("Tem certeza de que deseja votar nulo?", "Confirmação", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+                        string sql_update = "UPDATE eleitores SET voto = @Num_Voto WHERE cpf = @cpf";
+                        using (MySqlCommand command_in = new MySqlCommand(sql_update, cone))
+                        {
+                            command_in.Parameters.AddWithValue("@Num_Voto", nulo);
+                            command_in.Parameters.AddWithValue("@cpf", cpfUsuario);
+                            command_in.ExecuteNonQuery(); // Insere o voto no banco de dados
+
+                            MessageBox.Show("Seu voto foi computado!");
+                            Form2 formlog = new Form2();
+                            formlog.Show();
+                            this.Hide();
+                            return;
+                        }
+                    }
 
                     DialogResult resultado = MessageBox.Show("Tem certeza de que deseja votar neste candidato?", "Confirmação", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
 
@@ -179,6 +202,8 @@ namespace urna
                             // Executa a consulta para verificar se o candidato existe
                             using (MySqlDataReader reader = command.ExecuteReader())
                             {
+
+                                
                                 if (reader.HasRows) // Se o candidato foi encontrado
                                 {
                                     reader.Read(); // Lê a linha do candidato
