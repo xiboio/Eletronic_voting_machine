@@ -80,7 +80,47 @@ namespace urna
             {
                 cone.Open();
 
+                try
+                {
+                    string cpfUsuario = UsuarioLogado.CPF;
+                    int branco = 0;
+
+                    DialogResult resultado = MessageBox.Show("Tem certeza de que deseja votar Branco?", "Confirmação", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+                    if (resultado == DialogResult.Yes)
+                    {
+
+                        string sql_update = "UPDATE eleitores SET voto = @Num_Voto WHERE cpf = @cpf";
+                        using (MySqlCommand command_in = new MySqlCommand(sql_update, cone))
+                        {
+                            command_in.Parameters.AddWithValue("@Num_Voto", branco);
+                            command_in.Parameters.AddWithValue("@cpf", cpfUsuario);
+                            command_in.ExecuteNonQuery(); // Insere o voto no banco de dados
+
+                            MessageBox.Show("Seu voto foi computado!");
+                            Form2 formlog = new Form2();
+                            formlog.Show();
+                            this.Hide();
+                        }
+
+                        {
+                            MessageBox.Show("Candidato não encontrado!");
+                        }
+                    }
+
+                }
+
+
+
+                   
+                    
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("Ocorreu um erro: " + ex.Message);
+                    }
             }
+
+                
         }
 
         private void Button12_Click(object sender, EventArgs e)
