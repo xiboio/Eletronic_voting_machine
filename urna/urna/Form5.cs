@@ -102,5 +102,12 @@ namespace urna
             }
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form2 formlog = new Form2();
+            formlog.Show();
+            this.Hide();
+        }
     }
 }
