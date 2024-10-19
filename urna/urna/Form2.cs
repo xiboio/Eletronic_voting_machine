@@ -56,7 +56,7 @@ namespace urna
                         {
                             if (reader.Read()) // Se houver resultado, significa que o usuário já votou
                             {
-                                MessageBox.Show("Você já votou.");
+                                MessageBox.Show("Este CPF já votou.");
                                 return; 
                             }
                         }
