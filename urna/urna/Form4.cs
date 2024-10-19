@@ -39,7 +39,7 @@ namespace urna
 
 
             // Verifica se não tem nada vazio ou inválido
-            if (string.IsNullOrWhiteSpace(nome) || string.IsNullOrWhiteSpace(partido) || string.IsNullOrWhiteSpace(cargo) || idade <= 0 || num_vt <= 0)
+            if (string.IsNullOrWhiteSpace(nome) || string.IsNullOrWhiteSpace(partido) || string.IsNullOrWhiteSpace(cargo) || idade < 18 || num_vt <= 0)
             {
                 MessageBox.Show("Por favor, preencha todos os campos corretamente ou Você não é maior de 18 anos");
                 return;
