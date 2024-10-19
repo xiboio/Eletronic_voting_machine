@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "urna", "urna\urna.csproj", "{F0A50B12-31F7-4B59-BDED-01352E7E58FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0A50B12-31F7-4B59-BDED-01352E7E58FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A50B12-31F7-4B59-BDED-01352E7E58FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A50B12-31F7-4B59-BDED-01352E7E58FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A50B12-31F7-4B59-BDED-01352E7E58FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8A441B2-06E9-4063-B12E-AFBB906CF525}
+	EndGlobalSection
+EndGlobal
