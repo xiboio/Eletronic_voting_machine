@@ -182,7 +182,7 @@ namespace urna
                             MessageBox.Show("Seu voto foi computado!");
                             Form2 formlog = new Form2();
                             formlog.Show();
-                            this.Hide();
+                            this.Close();
                             return;
                         }
                     }
