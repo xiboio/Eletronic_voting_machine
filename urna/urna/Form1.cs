@@ -211,11 +211,11 @@ namespace urna
                                     reader.Close();
                                     // Consulta SQL para registrar o voto
                                     string sql_update = "UPDATE eleitores SET voto = @Num_Voto WHERE cpf = @cpf";
-                                    using (MySqlCommand command_in = new MySqlCommand(sql_update, cone))
+                                    using (MySqlCommand command_up = new MySqlCommand(sql_update, cone))
                                     {
-                                        command_in.Parameters.AddWithValue("@Num_Voto", numeroCandidato);
-                                        command_in.Parameters.AddWithValue("@cpf", cpfUsuario);
-                                        command_in.ExecuteNonQuery(); // Insere o voto no banco de dados
+                                        command_up.Parameters.AddWithValue("@Num_Voto", numeroCandidato);
+                                        command_up.Parameters.AddWithValue("@cpf", cpfUsuario);
+                                        command_up.ExecuteNonQuery(); // Insere o voto no banco de dados
 
                                         MessageBox.Show("Seu voto foi computado!");
                                         Form2 formlog = new Form2();
