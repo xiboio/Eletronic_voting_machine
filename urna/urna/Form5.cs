@@ -109,5 +109,45 @@ namespace urna
             formlog.Show();
             this.Hide();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            string connectionString = "Server=localhost; uid=root; pwd=; database=bolsonaro";
+
+            using (MySqlConnection cone = new MySqlConnection(connectionString))
+            {
+
+                cone.Open();
+
+                string sql_up = "UPDATE votacao SET atividade = @valor";
+                using (MySqlCommand command_up = new MySqlCommand(sql_up, cone))
+                {
+                    command_up.Parameters.AddWithValue("@valor", 1);
+                    command_up.ExecuteNonQuery();
+
+                    MessageBox.Show("Votação ativida com sucesso.");
+                }
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            string connectionString = "Server=localhost; uid=root; pwd=; database=bolsonaro";
+
+            using (MySqlConnection cone = new MySqlConnection(connectionString))
+            {
+
+                cone.Open();
+
+                string sql_up = "UPDATE votacao SET atividade = @valor";
+                using (MySqlCommand command_up = new MySqlCommand(sql_up, cone))
+                {
+                    command_up.Parameters.AddWithValue("@valor", 0);
+                    command_up.ExecuteNonQuery();
+
+                    MessageBox.Show("Votação desativada com sucesso.");
+                }
+            }
+        }
     }
 }
