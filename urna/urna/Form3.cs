@@ -62,6 +62,10 @@ namespace urna
 
                         command.ExecuteNonQuery();
                         MessageBox.Show("Cadastro realizado com sucesso!");
+
+                        Form2 formlog = new Form2();
+                        formlog.Show();
+                        this.Close();
                     }
                 }
                 catch (Exception ex)
