@@ -115,26 +115,49 @@ namespace urna
 
         private void Form2_Load(object sender, EventArgs e)
         {
+            string connectionString = "Server=localhost; uid=root; pwd=; database=bolsonaro";
 
+            
+                try
+                {
+
+
+                    using (MySqlConnection cone = new MySqlConnection(connectionString))
+                    {
+                        cone.Open();
+
+                        // Query para pegar o valor de 'atividade' da tabela 'votacao'
+                        string sql = "SELECT atividade FROM votacao LIMIT 1";
+                        using (MySqlCommand command = new MySqlCommand(sql, cone))
+                        {
+                            object result = command.ExecuteScalar();
+
+                            if (result != null)
+                            {
+                                int atividade = Convert.ToInt32(result);
+
+                                // Se 'atividade' for 1, ativa o botão; se for 2, desativa
+                                button1.Enabled = (atividade == 1);
+                            }
+                            else
+                            {
+                                button1.Enabled=false;
+                            }
+                        }
+                    }
+                }
+
+            catch (Exception ex)
+            {
+                MessageBox.Show("Erro ao verificar atividade: " + ex.Message);
+            }
         }
 
         private void Label3_Click(object sender, EventArgs e)
         {
-            if (radioButton1.Checked == true)
-            {
-                Form3 formcad = new Form3();
-                formcad.Show();
-                this.Hide();
-            }
-
-            if (radioButton2.Checked == true)
-            {
-                Form5 formadm = new Form5();
-                formadm.Show();
-                this.Hide();
-            }
-            
-            
+            Form3 formcad = new Form3();
+            formcad.Show();
+            this.Close();
         }
 
         private void Label3_MouseMove(object sender, MouseEventArgs e)
