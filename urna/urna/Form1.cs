@@ -108,11 +108,7 @@ namespace urna
                     }
 
                 }
-
-
-
-                   
-                    
+                            
                     catch (Exception ex)
                     {
                         MessageBox.Show("Ocorreu um erro: " + ex.Message);
@@ -190,7 +186,7 @@ namespace urna
 
                     if (resultado == DialogResult.Yes)
                     {
-                        cone.Open();
+                        
 
                         // Consulta SQL para buscar as informações do candidato
                         string sql = "SELECT Nome, Partido, Cargo, Num_Voto FROM candidatos WHERE Num_Voto = @Num_Voto";
