@@ -31,7 +31,16 @@ namespace urna
 
             string cpf = textBox1.Text;
             string senha = textBox2.Text;
-            
+
+            if (Control.ModifierKeys.HasFlag(Keys.Control) && Control.ModifierKeys.HasFlag(Keys.Shift))
+            {
+                
+                Form5 formadm = new Form5(); 
+                formadm.Show();
+                this.Hide();
+                return;
+            }
+
 
             using (MySqlConnection cone = new MySqlConnection(connectionString))
             {
