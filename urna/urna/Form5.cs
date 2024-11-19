@@ -85,8 +85,8 @@ namespace urna
                             if (reader.HasRows)
                             {
                                 MessageBox.Show("Login bem-sucedido!");
-                                Form6 formdel = new Form6();
-                                formdel.Show();
+                                Form7 formesc = new Form7();
+                                formesc.Show();
                                 this.Hide();
                             }
                             else
