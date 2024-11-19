@@ -161,3 +161,5 @@ C:\Users\MURILO\OneDrive\Área de Trabalho\Eletronic_voting_machine\urna\urna\ob
 C:\Users\MURILO\OneDrive\Área de Trabalho\Eletronic_voting_machine\urna\urna\obj\Debug\urna.csproj.Up2Date
 C:\Users\MURILO\OneDrive\Área de Trabalho\Eletronic_voting_machine\urna\urna\obj\Debug\urna.exe
 C:\Users\MURILO\OneDrive\Área de Trabalho\Eletronic_voting_machine\urna\urna\obj\Debug\urna.pdb
+C:\Users\MURILO\OneDrive\Área de Trabalho\Eletronic_voting_machine\urna\urna\obj\Debug\urna.Form7.resources
+C:\Users\MURILO\OneDrive\Área de Trabalho\Eletronic_voting_machine\urna\urna\obj\Debug\urna.Form8.resources
