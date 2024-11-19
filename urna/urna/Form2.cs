@@ -149,7 +149,7 @@ namespace urna
         {
             Form3 formcad = new Form3();
             formcad.Show();
-            this.Close();
+            this.Hide();
         }
 
         private void Label3_MouseMove(object sender, MouseEventArgs e)

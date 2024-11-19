@@ -20,7 +20,7 @@ namespace urna
 
         private void button1_Click(object sender, EventArgs e)
         {
-            decimal id = numericUpDown1.Value;
+            decimal num = numericUpDown1.Value;
             string connectionString = "Server=localhost; uid=root; pwd=; database=bolsonaro";
 
             try
@@ -30,25 +30,25 @@ namespace urna
                     cone.Open();
 
                     // Consulta para verificar se o ID existe
-                    string checkSql = "SELECT COUNT(*) FROM candidatos WHERE Id_Cand = @id_cand;";
+                    string checkSql = "SELECT COUNT(*) FROM candidatos WHERE Num_Voto = @num_cand;";
                     using (MySqlCommand checkCommand = new MySqlCommand(checkSql, cone))
                     {
-                        checkCommand.Parameters.Add("@id_cand", MySqlDbType.VarChar).Value = id;
+                        checkCommand.Parameters.Add("@num_cand", MySqlDbType.VarChar).Value = num;
                         int count = Convert.ToInt32(checkCommand.ExecuteScalar());
 
                         // Verifica se o ID existe
                         if (count == 0)
                         {
-                            MessageBox.Show("ID inválido. Candidato não encontrado.");
+                            MessageBox.Show("Inválido. Candidato não encontrado.");
                             return;
                         }
                     }
 
                     // Se o ID existe, executa a exclusão
-                    string sql = "DELETE FROM candidatos WHERE Id_Cand = @id_cand;";
+                    string sql = "DELETE FROM candidatos WHERE Num_Voto = @num_cand;";
                     using (MySqlCommand command = new MySqlCommand(sql, cone))
                     {
-                        command.Parameters.Add("@id_cand", MySqlDbType.VarChar).Value = id;
+                        command.Parameters.Add("@num_cand", MySqlDbType.VarChar).Value = num;
                         command.ExecuteNonQuery();
 
                         MessageBox.Show("Candidato excluído com sucesso");
