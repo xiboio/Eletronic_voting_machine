@@ -3,7 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|solutionrelative:urna\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|solutionrelative:urna\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|solutionrelative:urna\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|c:\\users\\murilo\\onedrive\\\u00E1rea de trabalho\\eletronic_voting_machine\\urna\\urna\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|solutionrelative:urna\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|solutionrelative:urna\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|c:\\users\\murilo\\onedrive\\\u00E1rea de trabalho\\eletronic_voting_machine\\urna\\urna\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|solutionrelative:urna\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|solutionrelative:urna\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|c:\\users\\murilo\\onedrive\\\u00E1rea de trabalho\\eletronic_voting_machine\\urna\\urna\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|solutionrelative:urna\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -11,19 +39,7 @@
       "RelativeMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|solutionrelative:urna\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|c:\\users\\murilo\\onedrive\\\u00E1rea de trabalho\\eletronic_voting_machine\\urna\\urna\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|solutionrelative:urna\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|c:\\users\\murilo\\onedrive\\\u00E1rea de trabalho\\eletronic_voting_machine\\urna\\urna\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|solutionrelative:urna\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|c:\\users\\murilo\\onedrive\\\u00E1rea de trabalho\\eletronic_voting_machine\\urna\\urna\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|solutionrelative:urna\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|c:\\users\\murilo\\onedrive\\\u00E1rea de trabalho\\eletronic_voting_machine\\urna\\urna\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|solutionrelative:urna\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,12 +47,8 @@
       "RelativeMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|solutionrelative:urna\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|c:\\users\\murilo\\onedrive\\\u00E1rea de trabalho\\eletronic_voting_machine\\urna\\urna\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|solutionrelative:urna\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|solutionrelative:urna\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -45,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|solutionrelative:urna\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|solutionrelative:urna\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0A50B12-31F7-4B59-BDED-01352E7E58FE}|urna\\urna.csproj|C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,11 +82,135 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form9.cs",
+              "RelativeDocumentMoniker": "urna\\Form9.cs",
+              "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form9.cs",
+              "RelativeToolTip": "urna\\Form9.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwEUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T01:54:36.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Form9.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form9.cs",
+              "RelativeDocumentMoniker": "urna\\Form9.cs",
+              "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form9.cs [Design]",
+              "RelativeToolTip": "urna\\Form9.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T01:53:04.991Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form8.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form8.cs",
+              "RelativeDocumentMoniker": "urna\\Form8.cs",
+              "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form8.cs [Design]",
+              "RelativeToolTip": "urna\\Form8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:55:26.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form7.cs",
+              "RelativeDocumentMoniker": "urna\\Form7.cs",
+              "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form7.cs",
+              "RelativeToolTip": "urna\\Form7.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:49:11.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form5.cs",
+              "RelativeDocumentMoniker": "urna\\Form5.cs",
+              "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form5.cs [Design]",
+              "RelativeToolTip": "urna\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:14:36.934Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form6.cs",
+              "RelativeDocumentMoniker": "urna\\Form6.cs",
+              "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form6.cs",
+              "RelativeToolTip": "urna\\Form6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:28:06.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form2.cs",
+              "RelativeDocumentMoniker": "urna\\Form2.cs",
+              "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form2.cs [Design]",
+              "RelativeToolTip": "urna\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:19:57.359Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form5.cs",
+              "RelativeDocumentMoniker": "urna\\Form5.cs",
+              "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form5.cs",
+              "RelativeToolTip": "urna\\Form5.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAD4v6QAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:20:40.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form6.cs",
+              "RelativeDocumentMoniker": "urna\\Form6.cs",
+              "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form6.cs [Design]",
+              "RelativeToolTip": "urna\\Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:25:34.645Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form2.cs",
+              "RelativeDocumentMoniker": "urna\\Form2.cs",
+              "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form2.cs",
+              "RelativeToolTip": "urna\\Form2.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAjwLcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:10:02.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Form8.cs",
               "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form8.cs",
               "RelativeDocumentMoniker": "urna\\Form8.cs",
@@ -91,94 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form8.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form8.cs",
-              "RelativeDocumentMoniker": "urna\\Form8.cs",
-              "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form8.cs [Design]",
-              "RelativeToolTip": "urna\\Form8.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T14:55:26.014Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form7.cs",
-              "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form7.cs",
-              "RelativeDocumentMoniker": "urna\\Form7.cs",
-              "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form7.cs",
-              "RelativeToolTip": "urna\\Form7.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAtwCEAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T14:49:11.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form5.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form5.cs",
-              "RelativeDocumentMoniker": "urna\\Form5.cs",
-              "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form5.cs [Design]",
-              "RelativeToolTip": "urna\\Form5.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T23:14:36.934Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form6.cs",
-              "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form6.cs",
-              "RelativeDocumentMoniker": "urna\\Form6.cs",
-              "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form6.cs",
-              "RelativeToolTip": "urna\\Form6.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAowEMAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T01:28:06.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form2.cs",
-              "RelativeDocumentMoniker": "urna\\Form2.cs",
-              "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form2.cs [Design]",
-              "RelativeToolTip": "urna\\Form2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T01:19:57.359Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form6.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form6.cs",
-              "RelativeDocumentMoniker": "urna\\Form6.cs",
-              "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form6.cs [Design]",
-              "RelativeToolTip": "urna\\Form6.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T00:25:34.645Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form2.cs",
-              "RelativeDocumentMoniker": "urna\\Form2.cs",
-              "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form2.cs",
-              "RelativeToolTip": "urna\\Form2.cs",
-              "ViewState": "AQIAAKYAAAAAAAAAAAAjwLcAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T02:10:02.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Form7.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form7.cs",
               "RelativeDocumentMoniker": "urna\\Form7.cs",
@@ -190,44 +235,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form3.cs",
               "RelativeDocumentMoniker": "urna\\Form3.cs",
               "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form3.cs [Design]",
               "RelativeToolTip": "urna\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T01:19:58.193Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-08T01:19:58.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form1.cs",
               "RelativeDocumentMoniker": "urna\\Form1.cs",
               "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form1.cs [Design]",
               "RelativeToolTip": "urna\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T01:19:55.416Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-08T01:19:55.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Form5.cs",
-              "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form5.cs",
-              "RelativeDocumentMoniker": "urna\\Form5.cs",
-              "ToolTip": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form5.cs",
-              "RelativeToolTip": "urna\\Form5.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAowFgAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T23:20:40.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form1.cs",
               "RelativeDocumentMoniker": "urna\\Form1.cs",
@@ -235,12 +265,11 @@
               "RelativeToolTip": "urna\\Form1.cs",
               "ViewState": "AQIAALgAAAAAAAAAAADwv9MAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T01:20:15.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T01:20:15.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form3.cs",
               "RelativeDocumentMoniker": "urna\\Form3.cs",
@@ -248,12 +277,11 @@
               "RelativeToolTip": "urna\\Form3.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAMwEIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T01:20:22.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T01:20:22.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Form4.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form4.cs",
               "RelativeDocumentMoniker": "urna\\Form4.cs",
@@ -264,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Form4.cs",
               "DocumentMoniker": "C:\\Users\\MURILO\\OneDrive\\\u00C1rea de Trabalho\\Eletronic_voting_machine\\urna\\urna\\Form4.cs",
               "RelativeDocumentMoniker": "urna\\Form4.cs",

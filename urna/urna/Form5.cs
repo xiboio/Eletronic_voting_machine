@@ -148,6 +148,21 @@ namespace urna
                     MessageBox.Show("Votação desativada com sucesso.");
                 }
             }
+
+            Form9 formResultados = new Form9();
+            formResultados.Show();
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Form9 formResultados = new Form9();
+            formResultados.Show();
+            this.Close();
         }
     }
 }
